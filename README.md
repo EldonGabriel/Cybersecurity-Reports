@@ -10,7 +10,7 @@ This repository serves as a portfolio of hands-on projects and deliverables from
 ### **Written Reports & Case Studies**
 
 * **REPORT – Access Control Incident:** A report detailing an access control incident, including investigation and resolution steps. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20Access%20Control%20Incident%20-%20v1.2.0.pdf)
-* **REPORT – BYOD in Organizations_ Security, Challenges, and Strategies:** A comprehensive report on the security implications of Bring Your Own Device policies. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf)
+* **REPORT – BYOD in Organizations: Security, Challenges, and Strategies:** A comprehensive report on the security implications of Bring Your Own Device policies. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20BYOD%20in%20Organizations_%20Security%2C%20Challenges%2C%20and%20Strategies%20%E2%80%93%20v1.0.0.pdf)
 * **REPORT – Bank Risk Register Analysis:** A report on identifying and ranking simulated bank threats by impact and likelihood. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20Bank%20Risk%20Register%20Analysis%20%E2%80%93%20v1.0.2.pdf)
 * **REPORT – Botium Security Audit:** A security audit report for the Botium application. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20Botium%20Security%20Audit%E2%80%93%20v1.1.0.pdf)
 * **REPORT – Investigation of Unauthorized Payroll Access Incident:** A case study on identifying the source of a breach and documenting mitigation steps. [Read Report](https://github.com/EldonGabriel/Cybersecurity-Reports/blob/main/REPORT%20%E2%80%93%20Investigation%20of%20Unauthorized%20Payroll%20Access%20Incident%20-%20v1.2.0.pdf)
@@ -35,7 +35,7 @@ This repository serves as a portfolio of hands-on projects and deliverables from
 
 ---
 
-### **🎥 Technical Demonstrations & Video Guides**
+### **Technical Demonstrations & Video Guides**
 
 #### **IT & Network Setup**
 * **Setting Up a Computer for the Network:** A silent video walkthrough demonstrating the initial Windows setup for secure networking. [Watch Video](https://youtu.be/m4MngVs_bmM)
@@ -54,6 +54,14 @@ This repository serves as a portfolio of hands-on projects and deliverables from
 * **Investigate Security Incidents with SQL:** Showcases how to use filters to trace suspicious login behavior. [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)
 * **Using AND, OR, NOT:** A silent guide illustrating the application of complex logic filters to narrow down threat activity. [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)
 * **SQL Joins for Security Investigation:** A demonstration of joining data across tables to trace user actions. [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)
+
+<h2>Cybersecurity Resources & Guides</h2>
+<p>Professional guides, templates, and insights developed to bridge technical knowledge with practical application.</p>
+
+<ul>
+  <li><a href="https://docs.google.com/document/d/1pG9jjDdVDl7Cqu-DoQOv6XSBhqG5YSJxUJQt0u1-01A/edit?usp=sharing">Professional Cybersecurity Report Template Guide</a></li>
+  <li><a href="https://docs.google.com/document/d/1nYALR4K3hXEIv_doF4ODDgC_aZewcpPsmPsQF4vj9w8/edit?usp=sharing">Bring Your Own Device (BYOD) Policy and Agreement</a></li>
+</ul>
 
 <h3><strong>Main GitHub Portfolio</strong></h3>
 <p>Explore my complete GitHub portfolio, including my primary collection of hands-on cybersecurity projects, reports, and technical documentation.</p>
