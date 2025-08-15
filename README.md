@@ -54,3 +54,12 @@ This repository serves as a portfolio of hands-on projects and deliverables from
 * **Investigate Security Incidents with SQL:** Showcases how to use filters to trace suspicious login behavior. [Watch Video](https://www.youtube.com/watch?v=bhTHXhE6kTk)
 * **Using AND, OR, NOT:** A silent guide illustrating the application of complex logic filters to narrow down threat activity. [Watch Video](https://www.youtube.com/watch?v=5qCjwenE-Z0)
 * **SQL Joins for Security Investigation:** A demonstration of joining data across tables to trace user actions. [Watch Video](https://www.youtube.com/watch?v=ynxJ1go-Cc8)
+
+<h3><strong>Main GitHub Portfolio</strong></h3>
+<p>Explore my complete GitHub portfolio, including my primary collection of hands-on cybersecurity projects, reports, and technical documentation.</p>
+<p><a href="https://github.com/EldonGabriel"><strong>Visit Main GitHub Page</strong></a></p>
+
+<h2>🤳 Connect with me</h2>
+<ul>
+  <li><a href="https://linkedin.com/in/eldongabriel">Linkedin</a></li>
+  </ul> 
